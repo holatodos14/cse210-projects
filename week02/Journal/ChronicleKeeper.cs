@@ -15,7 +15,7 @@ class ChronicleKeeper
             Console.WriteLine("2. Review memory archives");
             Console.WriteLine("3. Archive memories to vault");
             Console.WriteLine("4. Restore memories from vault");
-            Console.WriteLine("5. End exploration");
+            Console.WriteLine("5. End Exploration");
             Console.Write("\nSelect your journey (1-5): ");
 
             string choice = Console.ReadLine();
